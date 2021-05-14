@@ -22,7 +22,4 @@ git apply -v ../../device/beeline/a451/patches/frameworks_base.patch
 cd ../..
 cd system/netd
 git apply -v ../../device/beeline/a451/patches/0010-wifi-tethering-fix.patch
-cd ../..
-cd packages/apps/FMRadio
-git apply -v ../../../device/beeline/a451/patches/fmradio.patch
 cd ../../..
