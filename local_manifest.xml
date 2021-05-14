@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="kyuunex" fetch="https://github.com/kyuunex" revision="cm-14.1" />
+
+	<project path="vendor/beeline/a451" name="android_vendor_beeline_a451" remote="kyuunex" />
+	<project path="device/beeline/a451" name="android_device_beeline_a451" remote="kyuunex" />
+</manifest>
