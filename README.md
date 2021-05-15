@@ -2,31 +2,32 @@
 
 # Help wanted!
 I don't have much time and experience fixing stuff on MediaTek phones, I find myself running into walls. 
-So if you have any experience with this sort of stuff, hit me up.
+If you have any experience with this sort of stuff, and want to help, find me on Discord.
 ---
 
-## What I know works:
-* Brightness control
-* Offline charging
-* Wi-FI
-* USB (MTP and ADB)
-* Camera
+## Tested to a reasonable degree that it works:
+* Bootup / UI
 * Flashlight
+* FM Radio
 
-## Issues:
-* FM Radio not working
+## Not working / issues:
 * GPS not working
 * LiveDisplay not working
-* Wrong resolutions in Camera
 * Video Recording does not work
 * Devices fail to connect to the Wi-Fi hotspot
+* 'Corrupted SD card' errors for each partition
 
-## What I have not tested:
+## Not fully tested or not tested at all:
 * Telephony (Calls, Messages)
-* Bluetooth
+* Bluetooth (File transfer, headset)
 * Sensors (Accelerometer, Light, Proximity)
 * Sound (Headphones, Speakers, Microphone)
-* Whatever you don't see listed above.
+* Brightness control (Adaptive brightness not fully tested)
+* Offline charging
+* Wi-FI (speed not tested, hotspot probably broken)
+* USB (MTP and ADB)
+* Camera (resolutions and etc)
+* Anything else you don't see listed above.
 
 ---
 
